@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou Henrique
 
-<!--
-**joaohenrique-dev/joaohenrique-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End  
+🚀 Focado em React, JavaScript e interfaces modernas
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind
+
+## 📂 Projetos
+
+📊 Dashboard de Produtividade  
+💰 Controle de Finanças  
+🌐 Gerador de Landing Pages
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/joaohenrique-barbosa
+Portfólio: https://meu-portfolio-nine-rho.vercel.app
