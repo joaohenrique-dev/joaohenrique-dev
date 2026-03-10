@@ -20,6 +20,6 @@
 🌐 E-commercer-Moderno: https://joaohenrique-dev.github.io/E-Commerce-Moderno
 
 ## 📫 Contato
-
-LinkedIn: https://www.linkedin.com/in/joaohenrique-barbosa
-Portfólio: https://meu-portfolio-nine-rho.vercel.app
+📧Email:  joaohenriquebarbosa111@gmail.com
+💼LinkedIn: https://www.linkedin.com/in/joaohenrique-barbosa
+🌐Portfólio: https://meu-portfolio-nine-rho.vercel.app
