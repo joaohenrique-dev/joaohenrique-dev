@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Henrique
+# 👋 Olá, eu sou João Henrique 
 
 💻 Desenvolvedor Front-End  
 🚀 Focado em React, JavaScript e interfaces modernas
