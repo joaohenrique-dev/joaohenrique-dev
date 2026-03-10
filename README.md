@@ -13,9 +13,11 @@
 
 ## 📂 Projetos
 
-📊 Dashboard de Produtividade  
-💰 Controle de Finanças  
-🌐 Gerador de Landing Pages
+📊 Dashboard de Produtividade: https://joaohenrique-dev.github.io/
+
+💰 Controle de Finanças: https://aplicativo-financeiro-neon.vercel.app/
+
+🌐 E-commercer-Moderno: https://joaohenrique-dev.github.io/E-Commerce-Moderno
 
 ## 📫 Contato
 
